@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetIC1_18 Pin=IC1-18
+Added Pin To Net: NetName=NetIC1_18 Pin=LED2-1
+Added Net: Name=NetIC1_18
+Added Pin To Net: NetName=NetIC1_19 Pin=IC1-19
+Added Pin To Net: NetName=NetIC1_19 Pin=LED3-1
+Added Net: Name=NetIC1_19
+Added Room: Name=CC1101_DoorState
